@@ -1,0 +1,93 @@
+/* App.css */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.note-form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.note-form input {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.note-form button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007BFF;
+  color: white;
+  cursor: pointer;
+}
+
+.note-form button:hover {
+  background-color: #0056b3;
+}
+
+.edit-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+}
+
+.notes-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.note-item {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: white;
+  cursor: pointer;
+  transition: box-shadow 0.3s;
+  margin-right: 20px;
+  
+}
+
+.note-item:hover {
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.notes-header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.notes-header button {
+  border: none;
+  background-color: transparent;
+  color: red;
+  cursor: pointer;
+}
+
+.selected-note {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: white;
+}

@@ -1,0 +1,19 @@
+/* FILEPATH: /Users/banu/Desktop/note-easy-frontend/src/pages/note/note.css */
+
+.note {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.note-title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.note-content {
+  font-size: 14px;
+  line-height: 1.5;
+}
