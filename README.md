@@ -14,7 +14,7 @@ Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 ## Back-end
 Created using Hapi framework, typeORM to develop postgreSQL database.
-Using ### `npm run ts-node-dev index.ts` to run the backend
+Using `npm run ts-node-dev index.ts` to run the backend
 The server will running on [http://localhost:3000](http://localhost:3000).
 
 ## Database
