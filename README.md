@@ -8,7 +8,7 @@ Using React to create a front-end.
 > [!NOTE]
 > #### **The front-end is just for Simple Create,Read,Update and Delete in notes table with a specific CustomerId. Others API is not connected yet.**
 
-Running using `npm start`
+Running using `npm start` (run the back-end first)
 
 ## Back-end
 Created using Hapi framework, typeORM to develop postgreSQL database.
