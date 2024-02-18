@@ -13,6 +13,10 @@ Created using Hapi framework, typeORM to develop postgreSQL database.
 
 ## Database
 
-In this application, I used postgreSQL and deploy as my localhost server.
+In this application, I used postgreSQL and deploy as my localhost server. 
 
+If you want me to public the localhost server, please do not hesitate to contact me.
 
+Email : panusorn2552@hotmail.com
+Phone : 096-780-9339
+Line : beammiezxd.
