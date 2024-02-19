@@ -22,7 +22,9 @@ In this application, I used postgreSQL and deploy as my localhost server.
 To connect the database, change the `data-source.ts` in Back-end
 
 `host: '0.tcp.ap.ngrok.io`\
-`port : 17693` (the port might be change everytime I public the new localhost port, But I will keep updated it)
+`port : 17492` 
+> [!NOTE] 
+> (the port might be change everytime I public the new localhost port. Sometimes I have to go study at university, so the port might be down. But I will keep updated it)
 
 
 If you have problem connect to my localhost server, please do not hesitate to contact me.
