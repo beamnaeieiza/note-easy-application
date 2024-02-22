@@ -17,12 +17,12 @@ Running by using `npm run ts-node-dev index.ts` (Please update the database belo
 
 ## Database
 
-In this application, I used postgreSQL and deploy as my localhost server. 
+In this application, I used postgreSQL and deploy as my localhost server. Using ngrok to public my localhost to the network. 
 
 To connect the database, change the `data-source.ts` in Back-end
 
 `host: '0.tcp.ap.ngrok.io`\
-`port : 19434` 
+`port : 15401` 
 > [!NOTE] 
 > (the port might be change everytime I public the new localhost port. Sometimes I have to go study at university, so the port might be down. But I will keep updated it)
 
